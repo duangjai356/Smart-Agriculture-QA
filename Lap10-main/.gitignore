@@ -1,0 +1,12 @@
+node_modules/
+build/
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+.dart_tool/
+.idea/
+.vscode/
+.DS_Store
+runs/
